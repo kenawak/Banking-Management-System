@@ -36,11 +36,24 @@ A comprehensive Banking Management System implemented in C++. This system simpli
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/banking-management-system-cpp.git
+   git clone https://github.com/your-username/Banking-Management-System.git
 ## Navigate to the project directory:
-cd banking-management-system-cpp
+cd Banking-Management-System
 ## Compile the source code:
 g++ main.cpp -o banking_management_system
 ## Run the application:
-./banking_management_system
+./Banking-Management-System
 
+##########################
+## Usage
+Launch the application to access the main menu.
+Follow the on-screen prompts to create customer accounts, perform transactions, and manage banking operations.
+Use the provided options to navigate through the system.
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+## Fork the project.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them.
+Push your changes to your fork.
+Open a pull request with a clear title and description.
